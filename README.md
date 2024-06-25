@@ -24,7 +24,7 @@ This repository contains a Streamlit application that serves as a finance help c
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/finance-help-chatbot.git
+    git clone https://github.com/darhmylarhrey/finance-help-chatbot.git
     cd finance-help-chatbot
     ```
 
